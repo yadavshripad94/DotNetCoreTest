@@ -25,7 +25,15 @@
 
         //find array length
         Console.WriteLine(numbers2.Length);
-
+        Console.WriteLine("-------------------------");
+        //update the existing aaray element
+        int[] num = { 10, 20, 30, 40, 50 };
+        num[2] = 100;
+        foreach(int i in num)
+        {
+            Console.WriteLine(i);
+        }
+        Console.WriteLine("-------------------------");
 
 
 
