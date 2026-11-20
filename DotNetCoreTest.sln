@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{291C69DE-2F52-4A78-A57E-C3876B4AB903}"
 EndProject
@@ -24,6 +24,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassObject", "ClassObject", "{DEB63280-AEDD-49E5-98C1-81681FDBE728}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassObjectDemo", "ClassObjectDemo\ClassObjectDemo.csproj", "{C13D75A3-6A56-4098-9710-AF9882E7840C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfacedemo", "Interfacedemo", "{048136A4-06CC-4F63-9119-95FB478CD3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDemos", "InterfaceDemos\InterfaceDemos.csproj", "{807442B2-F02A-4497-814C-90A48925A1B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polyphorism", "Polyphorism", "{DD3CD87F-FAB0-430A-BE75-02BEE37240C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{EF7314B1-E2CC-46C0-A022-2EF2E5BB3BB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +75,14 @@ Global
 		{C13D75A3-6A56-4098-9710-AF9882E7840C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13D75A3-6A56-4098-9710-AF9882E7840C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13D75A3-6A56-4098-9710-AF9882E7840C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807442B2-F02A-4497-814C-90A48925A1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807442B2-F02A-4497-814C-90A48925A1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807442B2-F02A-4497-814C-90A48925A1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807442B2-F02A-4497-814C-90A48925A1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7314B1-E2CC-46C0-A022-2EF2E5BB3BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7314B1-E2CC-46C0-A022-2EF2E5BB3BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7314B1-E2CC-46C0-A022-2EF2E5BB3BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7314B1-E2CC-46C0-A022-2EF2E5BB3BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +97,8 @@ Global
 		{1FAA496F-76D2-47BD-83B7-7F0F3756EA58} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{FB985736-F90A-4450-B134-DE5CDE6C315E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{C13D75A3-6A56-4098-9710-AF9882E7840C} = {DEB63280-AEDD-49E5-98C1-81681FDBE728}
+		{807442B2-F02A-4497-814C-90A48925A1B6} = {048136A4-06CC-4F63-9119-95FB478CD3EE}
+		{EF7314B1-E2CC-46C0-A022-2EF2E5BB3BB4} = {DD3CD87F-FAB0-430A-BE75-02BEE37240C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E8F7AC1-19EA-466D-ACFE-7E686A1CF506}
